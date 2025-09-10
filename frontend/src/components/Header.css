@@ -1,0 +1,23 @@
+.app-header {
+  background: transparent;
+  margin-bottom: 8px;
+}
+.container-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 20px;
+  color: #111827;
+  font-weight: 700;
+}
+.search-wrap {
+  min-width: 320px;
+}
+.search-input {
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #e6e9ef;
+  width: 100%;
+}

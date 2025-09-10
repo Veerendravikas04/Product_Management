@@ -1,0 +1,27 @@
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(12, 18, 30, 0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+.modal {
+  background: white;
+  padding: 18px;
+  border-radius: 10px;
+  width: 420px;
+  box-shadow: 0 12px 30px rgba(2,6,23,0.2);
+}
+.modal label { display:block; margin-bottom:10px; }
+.modal input, .modal select, .modal textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #e6e9ef;
+  margin-top: 6px;
+}
+.modal .err { color: #dc2626; font-size: 12px; margin-top: 6px; display:block; }
+.modal-actions { display:flex; justify-content:flex-end; gap:8px; margin-top: 12px; }
+button.ghost { background: transparent; color: #111827; border: 1px solid #e6e9ef; padding: 6px 10px; border-radius:6px; }

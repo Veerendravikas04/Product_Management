@@ -1,0 +1,25 @@
+.product-form label {
+  display: block;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #374151;
+}
+.product-form input,
+.product-form select,
+.product-form textarea {
+  width: 100%;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #e6e9ef;
+  margin-top: 6px;
+}
+.product-form .err {
+  color: #dc2626;
+  display: block;
+  margin-top: 6px;
+  font-size: 12px;
+}
+.form-actions {
+  margin-top: 8px;
+  text-align: right;
+}

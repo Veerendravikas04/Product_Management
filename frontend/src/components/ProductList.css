@@ -1,0 +1,28 @@
+.product-list {
+  display: grid;
+  gap: 12px;
+  max-height: 400px;
+  overflow-y: auto;
+  padding-right: 8px;
+  scrollbar-width: thin;      
+  scrollbar-color: rgba(0,0,0,0.2) transparent;
+}
+
+
+
+.product-list::-webkit-scrollbar {
+  width: 6px; 
+}
+
+.product-list::-webkit-scrollbar-track {
+  background: transparent; 
+}
+
+.product-list::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,0.2); 
+  border-radius: 10px;
+}
+
+.product-list::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0,0,0,0.3);
+}
