@@ -50,5 +50,5 @@ This project showcases my ability to build **end-to-end applications** using the
 
 ---
 
-## 📂 Project Structure
+
 
