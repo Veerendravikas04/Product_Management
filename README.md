@@ -49,6 +49,13 @@ This project showcases my ability to build **end-to-end applications** using the
 - MongoDB (via Mongoose ODM)
 
 ---
+### Output Images
+<img width="486" height="677" alt="image" src="https://github.com/user-attachments/assets/07b24a86-4e64-47ae-828f-4854508db3a8" />
+
+<img width="800" height="675" alt="image" src="https://github.com/user-attachments/assets/a6321e9a-425a-4bf1-bd61-cafbceeee816" />
+
+<img width="878" height="698" alt="image" src="https://github.com/user-attachments/assets/f62a2bd9-405d-4f55-b715-4d07243e5df0" />
+
 
 
 
