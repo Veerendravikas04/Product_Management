@@ -19,7 +19,7 @@ This project showcases my ability to build **end-to-end applications** using the
 
 ## ✨ Features
 
-✅ **Product List Page** – Displays all products in a clean grid/list layout  
+✅ **Product List ** – Displays all products in a clean list layout  
 ✅ **Add Product Form** – Allows users to create new products  
 ✅ **Reusable Product Card Component** – Displays product details (name, price, category, description)  
 ✅ **Delete Product** – Remove products with confirmation  
@@ -49,6 +49,7 @@ This project showcases my ability to build **end-to-end applications** using the
 - MongoDB (via Mongoose ODM)
 
 ---
+
 
 
 
